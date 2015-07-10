@@ -9,7 +9,15 @@ http://MIKUSA1111://balkanstream.com/stream/24kitchen/mx001/qW79215FRE
 #EXTINF:0, 24 Kitchen2  
 http://balkanstream.com/stream/24kitchen/mx001/qW79215FRE
 #EXTINF:0, 24 Kitchen3 
-http://balkanstream.com/stream/24kitchen/putidoma22/udhfbu
+h#EXTINF:-1,24 Kitchen1
+#EXTGRP: Cognitive
+http://s2.edem.tv/iptv/TVWR32RK25QRUC/152/index.m3u8
+#EXTINF:-1,24 Kitchen2
+http://balkanstream.com/stream/24kitchen/mx001/qW79215FRE
+#EXTINF:-1,24 Kitchen3
+http://188.138.9.236:8000/YU_24kitchen?u=mx001:p=qW79215FRE
+#EXTINF:-1,24 Kitchen4
+http://188.138.9.236:8000/YU_24kitchen?u=putidoma22:p=udhfbuttp://balkanstream.com/stream/24kitchen/putidoma22/udhfbu
 EXTINF:-1,E2
 http://31.186.24.232:8000/5
 #EXTINF:-1,EGE TV
