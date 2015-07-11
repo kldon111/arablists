@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR green] --Updated 10/07/15 @ 12:50am made by:mfaraj,kldon--[/COLOR]   
+#EXTINF:-1, [COLOR green] --Updated 12/07/15 @ 12:26am made by:mfaraj,kldon--[/COLOR]   
 https://www.youtube.com/watch?v=P6CobLkKuEU
 #EXTINF:-1, [COLOR green] --Updated from www.dreamoem.com$www.tunisia-sat.com--[/COLOR] 
 https://www.youtube.com/watch?v=bkCgM9GHcWI
@@ -10,30 +10,6 @@ http://50.23.65.8/live/mbc/index.m3u8
 http://50.23.65.8/live/dream1/index.m3u8
 #EXTINF:0,DREAM2
 http://50.23.65.8/live/dream2/index.m3u8
-#EXTINF:0,rotana_classic
-http://50.23.65.8/live/rotana_classic/index.m3u8
-#EXTINF:0,rotana_massriya
-http://50.23.65.8/live/rotana_massriya/index.m3u8
-#EXTINF:0,rotana_massriya
-http://50.23.65.8/live/rotana_khalijiah/index.m3u8
-#EXTINF:0,rotana_massriya
-http://50.23.65.8/live/rotana_cinema_plus/index.m3u8
-#EXTINF:0,rotana_massriya
-http://50.23.65.8/live/rotana_massriya_plus/index.m3u8
-#EXTINF:0,rotana_massriya
-http://50.23.65.8/live/rotana_khalijiah_plus/index.m3u8
-#EXTINF:0,rotana_massriya
-http://50.23.65.8/live/set_el_bait/index.m3u8
-#EXTINF:0,rotana_massriya
-http://50.23.65.8/live/set_el_bait_plus/index.m3u8
-#EXTINF:0,ON TV
-http://50.23.65.8/live/ontv/index.m3u
-#EXTINF:0,ON TV LIVE
-http://50.23.65.8/live/ontv_live/index.m3u8
-#EXTINF:0,ON TV PLUS
-http://50.23.65.8live/ontv_plus/index.m3u8
-#EXTINF:0,ON TV LIVE PLUS
-http://50.23.65.8/live/ontv_live_plus/index.m3u8
 #EXTINF:0,el_mehwar_plus
 http://50.23.65.8/live/el_mehwar_plus/index.m3u8
 #EXTINF:0,al nahar + 2
@@ -54,10 +30,6 @@ http://50.23.65.8/live/faraeen_channel/index.m3u8
 http://50.23.65.8/live/cbc_plus/index.m3u8
 #EXTINF:0,cbc_extra
 http://50.23.65.8/live/cbc_extra/index.m3u8
-#EXTINF:0,cbc_sofra
-http://50.23.65.8/live/cbc_sofra/index.m3u8
-#EXTINF:0,cbc_sofra
-http://50.23.65.8/live/cbc_sofra/index.m3u8
 #EXTINF:0,cbc_drama
 http://50.23.65.8/live/cbc_drama/index.m3u8
 #EXTINF:0,cbc_extra_plus
@@ -400,8 +372,6 @@ rtmp://ns8.indexforce.com/ann/ann
 http://50.23.65.8/live/arab_woman/index.m3u8
 #EXTINF:0,azhari
 http://50.23.65.8/live/azhari/index.m3u8
-#EXTINF:0,B ***HasBahCa IPTV***
-http://bilgidiyari.net/m3u/turkiye.mp4
 #EXTINF:0,Baghdad tv
 http://streamer1.hamuraabi.com:1935/baghdad/live/HasBahCa.m3u8
 #EXTINF:0,BBC Arabia
@@ -464,8 +434,6 @@ http://50.23.65.8/live/dream1/index.m3u8
 http://50.23.65.8/live/dream2/index.m3u8
 #EXTINF:0,DW Arabia
 http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
-#EXTINF:0,E ***HasBahCa IPTV***
-http://bilgidiyari.net/m3u/turkiye.mp4
 #EXTINF:0,el_mehwar_plus
 http://50.23.65.8/live/el_mehwar_plus/index.m3u8
 #EXTINF:0,faraeen_channel
@@ -522,8 +490,6 @@ http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
 #EXTINF:0,IRAN ONYX HD
 http://63.237.48.3/ios/ONYX_HD/ONYX_HD.m3u8
-#EXTINF:0,IRAN PNG
-http://63.237.48.3/ios/PNG/PNG.m3u8
 #EXTINF:0,IRAN QURAN_TV m3u8
 http://63.237.48.3/ios/QURAN_TV/QURAN_TV.m3u8
 #EXTINF:0,IRAN TAPESH
@@ -752,5 +718,5 @@ http://50.23.65.8/live/time_turki_plus/index.m3u8
 http://50.23.65.8/live/toktok_cinema/index.m3u8
 #EXTINF:0,top_movies/index.m3u8
 http://50.23.65.8/live/top_movies/index.m3u8
-#EXTINF:0,Z ***HasBahCa IPTV***
-http://bilgidiyari.net/m3u/turkiye.mp4
+
+
