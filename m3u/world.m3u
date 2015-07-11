@@ -1,13 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR green] --Updated 10/07/15 @ 08:55pm made by:mfaraj,kldon--[/COLOR]   
+#EXTINF:-1, [COLOR green] --Updated 12/07/15 @ 12:05Am made by:mfaraj,kldon--[/COLOR]   
 https://www.youtube.com/watch?v=P6CobLkKuEU
 #EXTINF:-1, [COLOR green] --Updated from www.dreamoem.com$www.tunisia-sat.com--[/COLOR] 
 https://www.youtube.com/watch?v=bkCgM9GHcWI
 #EXTINF:-1,24 kitchen good
 http://xmaster-iptv.dyndns.tv:80/live/Tester/Tester/150.ts
-EXTINF:-1,E2
-http://31.186.24.232:8000/5
 #EXTINF:-1,EGE TV
 http://31.186.24.232:8000/6
 #EXTINF:-1,HALK TV
@@ -20,7 +18,7 @@ http://31.186.24.232:8000/2
 http://31.186.24.232:8000/3
 #EXTINF:-1,SHOWTV
 http://31.186.24.232:8000/80
-#EXTINF:-1,ZİRVE TÜRK TV
+#EXTINF:-1,Z?RVE TURK TV
 http://31.186.24.232:8000/140
 #EXTINF:-1,YILDIZ TV
 http://31.186.24.232:8000/108
@@ -64,7 +62,7 @@ http://31.186.24.232:8000/98
 http://31.186.24.232:8000/27
 #EXTINF:-1,TARZ MODA TV
 http://31.186.24.232:8000/50
-EXTINF:-1,SRT 1
+#EXTINF:-1,SRT 1
 http://31.186.24.232:8000/45
 #EXTINF:-1,SPORTS TV
 http://31.186.24.232:8000/102
@@ -82,7 +80,7 @@ http://31.186.24.232:8000/69
 http://31.186.24.232:8000/15
 #EXTINF:-1,Ruha TV
 http://31.186.24.232:8000/125
-#EXTINF:-1,RİTMİX TV
+#EXTINF:-1,R?TM?X TV
 http://31.186.24.232:8000/33
 #EXTINF:-1,REHBER TV
 http://31.186.24.232:8000/149
@@ -104,13 +102,13 @@ http://31.186.24.232:8000/111
 http://31.186.24.232:8000/14
 #EXTINF:-1,NIYAZ
 http://31.186.24.232:8000/61
-#EXTINF:-1,NİSA TV
+#EXTINF:-1,N?SA TV
 http://31.186.24.232:8000/35
 #EXTINF:-1,K15
 http://31.186.24.232:8000/127
 #EXTINF:-1,NETCINEMA
 http://31.186.24.232:8000/58
-#EXTINF:-1,MÜZİK TÜRK
+#EXTINF:-1,MUZ?K TURK
 http://31.186.24.232:8000/34
 #EXTINF:-1,minikaGO
 http://31.186.24.232:8000/124
@@ -122,30 +120,6 @@ http://50.23.65.8/live/mbc/index.m3u8
 http://50.23.65.8/live/dream1/index.m3u8
 #EXTINF:0,DREAM2
 http://50.23.65.8/live/dream2/index.m3u8
-#EXTINF:0,rotana_classic
-http://50.23.65.8/live/rotana_classic/index.m3u8
-#EXTINF:0,rotana_massriya
-http://50.23.65.8/live/rotana_massriya/index.m3u8
-#EXTINF:0,rotana_massriya
-http://50.23.65.8/live/rotana_khalijiah/index.m3u8
-#EXTINF:0,rotana_massriya
-http://50.23.65.8/live/rotana_cinema_plus/index.m3u8
-#EXTINF:0,rotana_massriya
-http://50.23.65.8/live/rotana_massriya_plus/index.m3u8
-#EXTINF:0,rotana_massriya
-http://50.23.65.8/live/rotana_khalijiah_plus/index.m3u8
-#EXTINF:0,rotana_massriya
-http://50.23.65.8/live/set_el_bait/index.m3u8
-#EXTINF:0,rotana_massriya
-http://50.23.65.8/live/set_el_bait_plus/index.m3u8
-#EXTINF:0,ON TV
-http://50.23.65.8/live/ontv/index.m3u
-#EXTINF:0,ON TV LIVE
-http://50.23.65.8/live/ontv_live/index.m3u8
-#EXTINF:0,ON TV PLUS
-http://50.23.65.8live/ontv_plus/index.m3u8
-#EXTINF:0,ON TV LIVE PLUS
-http://50.23.65.8/live/ontv_live_plus/index.m3u8
 #EXTINF:0,el_mehwar_plus
 http://50.23.65.8/live/el_mehwar_plus/index.m3u8
 #EXTINF:0,al nahar + 2
@@ -428,28 +402,6 @@ http://50.23.65.8/live/al_naeem_tv/index.m3u8
 rtmp://63.237.48.8/live//MBC2
 #EXTINF:-1,Mbc 2
 http://63.237.48.3/ios/MBC2/MBC2.m3u8
-#EXTINF:-1,MBC 3
-rtmp://162.212.176.107:1935/mbc_3/globaltv-mbc_3.stream
-#EXTINF:-1,MBC 3 m3u8
-http://162.212.176.107:1935/mbc_3/globaltv-mbc_3.stream/HasBahCa.m3u8
-#EXTINF:-1,MBC 4
-rtmp://63.237.48.8:1935/live/MBC_4
-#EXTINF:-1,MBC_ACTION
-rtmp://63.237.48.3/live//MBC_ACTION
-#EXTINF:-1,MBC_ACTION m3u8
-http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
-#EXTINF:-1,MBC_BOLLYWOOD
-rtmp://63.237.48.3/live//MBC_BOLLYWOOD
-#EXTINF:-1,MBC_BOLLYWOOD m3u8
-http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
-#EXTINF:-1,mbc_max
-rtmp://63.237.48.23/live//MBC_MAX
-#EXTINF:-1,mbc_max
-rtmp://162.212.176.107:1935/mbc_max/globaltv-mbc_max.stream
-#EXTINF:-1,MBC_MAX m3u8
-http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
-#EXTINF:-1,mbc_max m3u8
-http://162.212.176.107:1935/mbc_max/globaltv-mbc_max.stream/HasBahCa.m3u8
 #EXTINF:-1,Mekke
 http://46.245.160.224/mekke/mekke/HasBahCa.m3u8
 #EXTINF:-1,Mosul TV
@@ -459,15 +411,12 @@ http://188.227.189.18:8082/TV4136
 #EXTINF:-1,Nabaa
 rtmp://31.14.40.238:1935/live/Nabaa
 #EXTINF:-1,national_geo
-#EXTM3U
 #EXTINF:-1,Setmax IPL 2015 (2G Quality)
 http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/229.ts
 #EXTINF:-1,2G 80kbps 304417
 http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/249.ts
 #EXTINF:-1,2G 120kbps 304429
 http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/228.ts
-#EXTINF:-1,Empty
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/227.ts
 #EXTINF:-1,Arena Sports 1 SD  Croatian
 http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/54.ts
 #EXTINF:-1,Arena Sports 2 SD Croatian
@@ -484,66 +433,6 @@ http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/102.ts
 http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/100.ts
 #EXTINF:-1,BBC 4 UK
 http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/99.ts
-#EXTINF:-1,Bein Sports USA
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/95.ts
-#EXTINF:-1,Bein Sports 1 FR
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/31.ts
-#EXTINF:-1,Bein Sports 2 FR
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/36.ts
-#EXTINF:-1,Bein Sports 3 FR
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/32.ts
-#EXTINF:-1,Bein Max 4
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/93.ts
-#EXTINF:-1,Bein Max 5
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/94.ts
-#EXTINF:-1,Bein Sports 1 HD
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/16.ts
-#EXTINF:-1,Bein Sports 2 HD
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/17.ts
-#EXTINF:-1,Bein Sports 3 HD
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/18.ts
-#EXTINF:-1,Bein Sports 4 HD
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/19.ts
-#EXTINF:-1,Bein Sports 5 HD
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/20.ts
-#EXTINF:-1,Bein Sports 6 HD
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/21.ts
-#EXTINF:-1,Bein Sports 7 HD
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/22.ts
-#EXTINF:-1,Bein Sports 8 HD
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/23.ts
-#EXTINF:-1,Bein Sports 9 HD
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/24.ts
-#EXTINF:-1,Bein Sports 10 HD
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/25.ts
-#EXTINF:-1,Bein Sports 11 HD
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/247.ts
-#EXTINF:-1,Bein Sports 12 HD
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/248.ts
-#EXTINF:-1,Bein Sports 1 LQ Backup
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/114.ts
-#EXTINF:-1,Bein Sports 2 LQ Backup
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/115.ts
-#EXTINF:-1,Bein Sports 3 LQ Backup
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/116.ts
-#EXTINF:-1,Bein Sports 4 LQ Backup
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/117.ts
-#EXTINF:-1,Bein Sports 5 LQ Backup
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/118.ts
-#EXTINF:-1,Bein Sports 6 LQ Backup
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/119.ts
-#EXTINF:-1,Bein Sports 7 LQ Backup
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/120.ts
-#EXTINF:-1,Bein Sports 8 LQ Backup
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/121.ts
-#EXTINF:-1,Bein Sports 9 LQ Backup
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/122.ts
-#EXTINF:-1,Bein Sports 10 LQ Backup
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/123.ts
-#EXTINF:-1,Bein Sports 11 LQ Backup
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/124.ts
-#EXTINF:-1,Bein Sports 12 LQ Backup
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/125.ts
 #EXTINF:-1,Boxnation HD
 http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/240.ts
 #EXTINF:-1,Box Nation
@@ -574,56 +463,6 @@ http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/106.ts
 http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/9.ts
 #EXTINF:-1,Setanta Sports
 http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/8.ts
-#EXTINF:-1,Sky Sport 1 HD Deutch Germany
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/88.ts
-#EXTINF:-1,Sky Sport 2 HD Deutch Germany
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/89.ts
-#EXTINF:-1,Sky Bundesliga HD1
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/38.ts
-#EXTINF:-1,Sky Bundesliga HD2
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/39.ts
-#EXTINF:-1,Sky Bundesliga HD3
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/40.ts
-#EXTINF:-1,Sky Bundesliga HD4
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/41.ts
-#EXTINF:-1,Sky Bundesliga HD5
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/42.ts
-#EXTINF:-1,Sky Movie (Action&Adventure)
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/110.ts
-#EXTINF:-1,Sky Movie (Comedy)
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/108.ts
-#EXTINF:-1,Sky Movie (Crime&Thriller)
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/113.ts
-#EXTINF:-1,Sky Movie (Drama)
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/107.ts
-#EXTINF:-1,Sky Movie (Family)
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/65.ts
-#EXTINF:-1,Sky Movie (Modern Greats)
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/109.ts
-#EXTINF:-1,Sky Movie (Premiere)
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/111.ts
-#EXTINF:-1,Sky Movie (SciFi&Horror)
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/112.ts
-#EXTINF:-1,Sky Movie (Select)
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/64.ts
-#EXTINF:-1,Sky Atlantic
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/98.ts
-#EXTINF:-1,SkySports 1
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/1.ts
-#EXTINF:-1,SkySports 2
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/2.ts
-#EXTINF:-1,SkySports 3
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/3.ts
-#EXTINF:-1,SkySports 4
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/4.ts
-#EXTINF:-1,SkySports 5
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/5.ts
-#EXTINF:-1,SkySports F1
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/6.ts
-#EXTINF:-1,SkySports News
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/7.ts
-#EXTINF:-1,NFL Network
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/58.ts
 #EXTINF:-1,At The Races
 http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/52.ts
 #EXTINF:-1,Racing UK
@@ -640,148 +479,6 @@ http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/75.ts
 http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/77.ts
 #EXTINF:-1,SportsNet World
 http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/76.ts
-#EXTINF:-1,TSN 1
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/34.ts
-#EXTINF:-1,TSN 2
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/35.ts
-#EXTINF:-1,TSN 3
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/135.ts
-#EXTINF:-1,TSN 4
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/136.ts
-#EXTINF:-1,TSN 5
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/137.ts
-#EXTINF:-1,OTE Sports 1
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/85.ts
-#EXTINF:-1,OTE Sports 2
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/86.ts
-#EXTINF:-1,OTE Sports 3
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/87.ts
-#EXTINF:-1,OTE Sports 4
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/90.ts
-#EXTINF:-1,OTE Sports 5
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/91.ts
-#EXTINF:-1,OTE Sports 6
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/92.ts
-#EXTINF:-1,Sport Klub 1 HD
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/71.ts
-#EXTINF:-1,Sport Klub 2 HD
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/72.ts
-#EXTINF:-1,Sport Klub 3 HD
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/73.ts
-#EXTINF:-1,Super Sport 1 HD
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/66.ts
-#EXTINF:-1,Super Sport 2 HD
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/67.ts
-#EXTINF:-1,Super Sport 3 HD
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/68.ts
-#EXTINF:-1,Canal +
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/97.ts
-#EXTINF:-1,Canal + Sport
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/96.ts
-#EXTINF:-1,Pac 12 Network
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/138.ts
-#EXTINF:-1,Sky Sport 1 HD Italy
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/50.ts
-#EXTINF:-1,Sky Sport 2 HD Italy
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/51.ts
-#EXTINF:-1,Btn
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/139.ts
-#EXTINF:-1,Channel 1 (not 24x7)
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/150.ts
-#EXTINF:-1,Channel 2 (not 24x7)
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/151.ts
-#EXTINF:-1,Channel 3 (not 24x7)
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/152.ts
-#EXTINF:-1,Channel 4 (not 24x7)
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/153.ts
-#EXTINF:-1,Channel 5 (not 24x7)
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/154.ts
-#EXTINF:-1,Channel 6 (not 24x7)
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/155.ts
-#EXTINF:-1,Channel 7 (not 24x7)
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/156.ts
-#EXTINF:-1,Channel 8 (not 24x7)
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/157.ts
-#EXTINF:-1,Channel 9 (not 24x7)
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/158.ts
-#EXTINF:-1,Channel 10 (not 24x7)
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/159.ts
-#EXTINF:-1,Channel 11 (not 24x7)
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/160.ts
-#EXTINF:-1,Channel 12 (not 24x7)
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/161.ts
-#EXTINF:-1,Channel 13 (not 24x7)
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/162.ts
-#EXTINF:-1,Channel 14 (not 24x7)
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/163.ts
-#EXTINF:-1,Channel 15 (not 24x7)
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/164.ts
-#EXTINF:-1,Channel 16 (not 24x7)
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/165.ts
-#EXTINF:-1,Channel 17 (not 24x7)
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/166.ts
-#EXTINF:-1,Channel 18 (not 24x7)
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/167.ts
-#EXTINF:-1,Channel 19 (not 24x7)
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/168.ts
-#EXTINF:-1,Channel 20 (not 24x7)
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/169.ts
-#EXTINF:-1,Channel 21 (not 24x7)
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/170.ts
-#EXTINF:-1,Channel 22 (not 24x7)
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/171.ts
-#EXTINF:-1,Channel 23 (not 24x7)
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/172.ts
-#EXTINF:-1,Channel 24 (not 24x7)
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/173.ts
-#EXTINF:-1,Channel 25 (not 24x7)
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/174.ts
-#EXTINF:-1,Channel 26 (not 24x7)
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/175.ts
-#EXTINF:-1,Channel 27 (not 24x7)
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/176.ts
-#EXTINF:-1,Channel 28 (not 24x7)
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/177.ts
-#EXTINF:-1,Channel 29 (not 24x7)
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/178.ts
-#EXTINF:-1,Channel 30 (not 24x7)
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/179.ts
-#EXTINF:-1,ENG_WAENER_TV-US
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/439.ts
-#EXTINF:-1,ENG_SLICE_US
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/452.ts
-#EXTINF:-1,ENG_PBS-CA
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/453.ts
-#EXTINF:-1,ENG_NICK-US
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/456.ts
-#EXTINF:-1,ENG_NBC-US
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/483.ts
-#EXTINF:-1,ENG_NAT_GEO-US
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/457.ts
-#EXTINF:-1,ENG_LIFETIME-CA
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/460.ts
-#EXTINF:-1,ENG_DOCUMENTARY-CA
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/468.ts
-#EXTINF:-1,ENG_DISNEY_JR-EN-CA
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/469.ts
-#EXTINF:-1,ENG_DISCOVERY_SCIENCE-CA
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/470.ts
-#EXTINF:-1,ENG_CBS-US
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/475.ts
-#EXTINF:-1,ENG_CBC_CA_(MTL)
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/476.ts
-#EXTINF:-1,ENG_CARTOON_NETWORK-US
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/477.ts
-#EXTINF:-1,ENG_BET
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/478.ts
-#EXTINF:-1,ENG_ATN_CBN-CA
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/479.ts
-#EXTINF:-1,ENG_ANIMAL_PLANET_HD-US
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/480.ts
-#EXTINF:-1,ENG_AMC-US
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/481.ts
-#EXTINF:-1,ENG_ABC-US
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/482.ts
 #EXTINF:-1,Willow Tv (Cricket)
 http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/33.ts
 #EXTINF:-1,Star Sports 1
@@ -822,66 +519,6 @@ http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/102.ts
 http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/100.ts
 #EXTINF:-1,BBC 4 UK
 http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/99.ts
-#EXTINF:-1,Bein Sports USA
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/95.ts
-#EXTINF:-1,Bein Sports 1 FR
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/31.ts
-#EXTINF:-1,Bein Sports 2 FR
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/36.ts
-#EXTINF:-1,Bein Sports 3 FR
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/32.ts
-#EXTINF:-1,Bein Max 4
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/93.ts
-#EXTINF:-1,Bein Max 5
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/94.ts
-#EXTINF:-1,Bein Sports 1 HD
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/16.ts
-#EXTINF:-1,Bein Sports 2 HD
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/17.ts
-#EXTINF:-1,Bein Sports 3 HD
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/18.ts
-#EXTINF:-1,Bein Sports 4 HD
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/19.ts
-#EXTINF:-1,Bein Sports 5 HD
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/20.ts
-#EXTINF:-1,Bein Sports 6 HD
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/21.ts
-#EXTINF:-1,Bein Sports 7 HD
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/22.ts
-#EXTINF:-1,Bein Sports 8 HD
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/23.ts
-#EXTINF:-1,Bein Sports 9 HD
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/24.ts
-#EXTINF:-1,Bein Sports 10 HD
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/25.ts
-#EXTINF:-1,Bein Sports 11 HD
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/247.ts
-#EXTINF:-1,Bein Sports 12 HD
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/248.ts
-#EXTINF:-1,Bein Sports 1 LQ Backup
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/114.ts
-#EXTINF:-1,Bein Sports 2 LQ Backup
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/115.ts
-#EXTINF:-1,Bein Sports 3 LQ Backup
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/116.ts
-#EXTINF:-1,Bein Sports 4 LQ Backup
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/117.ts
-#EXTINF:-1,Bein Sports 5 LQ Backup
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/118.ts
-#EXTINF:-1,Bein Sports 6 LQ Backup
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/119.ts
-#EXTINF:-1,Bein Sports 7 LQ Backup
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/120.ts
-#EXTINF:-1,Bein Sports 8 LQ Backup
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/121.ts
-#EXTINF:-1,Bein Sports 9 LQ Backup
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/122.ts
-#EXTINF:-1,Bein Sports 10 LQ Backup
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/123.ts
-#EXTINF:-1,Bein Sports 11 LQ Backup
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/124.ts
-#EXTINF:-1,Bein Sports 12 LQ Backup
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/125.ts
 #EXTINF:-1,Boxnation HD
 http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/240.ts
 #EXTINF:-1,Box Nation
@@ -918,68 +555,6 @@ http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/9.ts
 http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/149.ts
 #EXTINF:-1,Setanta Sports
 http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/8.ts
-#EXTINF:-1,Sky Sport 1 HD Deutch Germany
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/88.ts
-#EXTINF:-1,Sky Sport 2 HD Deutch Germany
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/89.ts
-#EXTINF:-1,Sky Bundesliga HD1
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/38.ts
-#EXTINF:-1,Sky Bundesliga HD2
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/39.ts
-#EXTINF:-1,Sky Bundesliga HD3
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/40.ts
-#EXTINF:-1,Sky Bundesliga HD4
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/41.ts
-#EXTINF:-1,Sky Bundesliga HD5
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/42.ts
-#EXTINF:-1,Sky Movie (Action&Adventure)
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/110.ts
-#EXTINF:-1,Sky Movie (Comedy)
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/108.ts
-#EXTINF:-1,Sky Movie (Crime&Thriller)
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/113.ts
-#EXTINF:-1,Sky Movie (Drama)
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/107.ts
-#EXTINF:-1,Sky Movie (Family)
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/65.ts
-#EXTINF:-1,Sky Movie (Modern Greats)
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/109.ts
-#EXTINF:-1,Sky Movie (Premiere)
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/111.ts
-#EXTINF:-1,Sky Movie (SciFi&Horror)
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/112.ts
-#EXTINF:-1,Sky Movie (Select)
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/64.ts
-#EXTINF:-1,Sky Atlantic
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/98.ts
-#EXTINF:-1,SkySports 1
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/1.ts
-#EXTINF:-1,SkySports 1 (Backup)
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/140.ts
-#EXTINF:-1,SkySports 2
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/2.ts
-#EXTINF:-1,SkySports 2 (Backup)
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/141.ts
-#EXTINF:-1,SkySports 3
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/3.ts
-#EXTINF:-1,SkySports 3 (Backup)
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/142.ts
-#EXTINF:-1,SkySports 4
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/4.ts
-#EXTINF:-1,SkySports 4 (Backup)
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/143.ts
-#EXTINF:-1,SkySports 5
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/5.ts
-#EXTINF:-1,SkySports 5 (Backup)
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/144.ts
-#EXTINF:-1,SkySports F1
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/6.ts
-#EXTINF:-1,SkySports F1 (Backup)
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/145.ts
-#EXTINF:-1,SkySports News
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/7.ts
-#EXTINF:-1,SkySports News (Backup)
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/146.ts
 #EXTINF:-1,NFL Network
 http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/58.ts
 #EXTINF:-1,At The Races
@@ -998,164 +573,6 @@ http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/75.ts
 http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/77.ts
 #EXTINF:-1,SportsNet World
 http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/76.ts
-#EXTINF:-1,TSN 1
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/34.ts
-#EXTINF:-1,TSN 2
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/35.ts
-#EXTINF:-1,TSN 3
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/135.ts
-#EXTINF:-1,TSN 4
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/136.ts
-#EXTINF:-1,TSN 5
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/137.ts
-#EXTINF:-1,OTE Sports 1
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/85.ts
-#EXTINF:-1,OTE Sports 2
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/86.ts
-#EXTINF:-1,OTE Sports 3
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/87.ts
-#EXTINF:-1,OTE Sports 4
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/90.ts
-#EXTINF:-1,OTE Sports 5
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/91.ts
-#EXTINF:-1,OTE Sports 6
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/92.ts
-#EXTINF:-1,Sport Klub 1 HD
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/71.ts
-#EXTINF:-1,Sport Klub 2 HD
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/72.ts
-#EXTINF:-1,Sport Klub 3 HD
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/73.ts
-#EXTINF:-1,Super Sport 1 HD
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/66.ts
-#EXTINF:-1,Super Sport 2 HD
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/67.ts
-#EXTINF:-1,Super Sport 3 HD
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/68.ts
-#EXTINF:-1,Canal +
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/97.ts
-#EXTINF:-1,Canal + Sport
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/96.ts
-#EXTINF:-1,Pac 12 Network
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/138.ts
-#EXTINF:-1,Sky Sport 1 HD Italy
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/50.ts
-#EXTINF:-1,Sky Sport 2 HD Italy
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/51.ts
-#EXTINF:-1,Btn
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/139.ts
-#EXTINF:-1,Channel 1 (not 24x7)
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/150.ts
-#EXTINF:-1,Channel 2 (not 24x7)
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/151.ts
-#EXTINF:-1,Channel 3 (not 24x7)
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/152.ts
-#EXTINF:-1,Channel 4 (not 24x7)
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/153.ts
-#EXTINF:-1,Channel 5 (not 24x7)
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/154.ts
-#EXTINF:-1,Channel 6 (not 24x7)
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/155.ts
-#EXTINF:-1,Channel 7 (not 24x7)
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/156.ts
-#EXTINF:-1,Channel 8 (not 24x7)
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/157.ts
-#EXTINF:-1,Channel 9 (not 24x7)
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/158.ts
-#EXTINF:-1,Channel 10 (not 24x7)
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/159.ts
-#EXTINF:-1,Channel 11 (not 24x7)
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/160.ts
-#EXTINF:-1,Channel 12 (not 24x7)
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/161.ts
-#EXTINF:-1,Channel 13 (not 24x7)
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/162.ts
-#EXTINF:-1,Channel 14 (not 24x7)
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/163.ts
-#EXTINF:-1,Channel 15 (not 24x7)
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/164.ts
-#EXTINF:-1,Channel 16 (not 24x7)
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/165.ts
-#EXTINF:-1,Channel 17 (not 24x7)
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/166.ts
-#EXTINF:-1,Channel 18 (not 24x7)
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/167.ts
-#EXTINF:-1,Channel 19 (not 24x7)
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/168.ts
-#EXTINF:-1,Channel 20 (not 24x7)
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/169.ts
-#EXTINF:-1,Channel 21 (not 24x7)
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/170.ts
-#EXTINF:-1,Channel 22 (not 24x7)
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/171.ts
-#EXTINF:-1,Channel 23 (not 24x7)
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/172.ts
-#EXTINF:-1,Channel 24 (not 24x7)
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/173.ts
-#EXTINF:-1,Channel 25 (not 24x7)
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/174.ts
-#EXTINF:-1,Channel 26 (not 24x7)
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/175.ts
-#EXTINF:-1,Channel 27 (not 24x7)
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/176.ts
-#EXTINF:-1,Channel 28 (not 24x7)
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/177.ts
-#EXTINF:-1,Channel 29 (not 24x7)
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/178.ts
-#EXTINF:-1,Channel 30 (not 24x7)
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/179.ts
-#EXTINF:-1,ENG_WAENER_TV-US
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/439.ts
-#EXTINF:-1,ENG_SLICE_US
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/452.ts
-#EXTINF:-1,ENG_PBS-CA
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/453.ts
-#EXTINF:-1,ENG_NICK-US
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/456.ts
-#EXTINF:-1,ENG_NBC-US
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/483.ts
-#EXTINF:-1,ENG_NAT_GEO-US
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/457.ts
-#EXTINF:-1,ENG_LIFETIME-CA
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/460.ts
-#EXTINF:-1,ENG_DOCUMENTARY-CA
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/468.ts
-#EXTINF:-1,ENG_DISNEY_JR-EN-CA
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/469.ts
-#EXTINF:-1,ENG_DISCOVERY_SCIENCE-CA
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/470.ts
-#EXTINF:-1,ENG_CBS-US
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/475.ts
-#EXTINF:-1,ENG_CBC_CA_(MTL)
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/476.ts
-#EXTINF:-1,ENG_CARTOON_NETWORK-US
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/477.ts
-#EXTINF:-1,ENG_BET
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/478.ts
-#EXTINF:-1,ENG_ATN_CBN-CA
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/479.ts
-#EXTINF:-1,ENG_ANIMAL_PLANET_HD-US
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/480.ts
-#EXTINF:-1,ENG_AMC-US
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/481.ts
-#EXTINF:-1,ENG_ABC-US
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/482.ts
-#EXTINF:-1,Willow Tv (Cricket)
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/33.ts
-#EXTINF:-1,Star Sports 1
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/253.ts
-#EXTINF:-1,NDTV News
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/79.ts
-#EXTINF:-1,India Tv News
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/80.ts
-#EXTINF:-1,ABP News
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/246.ts
-#EXTINF:-1,Aajtak News
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/243.ts
-#EXTINF:-1,NHL Network
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/78.ts
-#EXTINF:-1,HBO East
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/342.ts
 #EXTINF:-1,IT: Premium Studio Universal
 http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/110.ts
 #EXTINF:-1,IT: Premium Mya
@@ -1210,20 +627,12 @@ http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/306.ts
 http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/42.ts
 #EXTINF:-1,fr:RMC-DECOUVERTE
 http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/51.ts
-#EXTINF:-1,fr:M6-MUSIC
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/48.ts
 #EXTINF:-1,fr:M6
 http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/47.ts
 #EXTINF:-1,fr:BFM
 http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/49.ts
 #EXTINF:-1,fr:ART
 http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/53.ts
-#EXTINF:-1,FR: BeIN Sports 3 HD
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/67.ts
-#EXTINF:-1,FR: BeIN Sports 2 HD
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/68.ts
-#EXTINF:-1,FR: BeIN Sports 1 HD
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/69.ts
 #EXTINF:-1,FR-Rouge-TV
 http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/280.ts
 #EXTINF:-1,FR-Eurosport
@@ -1232,10 +641,6 @@ http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/281.ts
 http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/290.ts
 #EXTINF:-1,FR-BFMTV
 http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/292.ts
-#EXTINF:-1,FR-Bein-Sport--2-HD
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/293.ts
-#EXTINF:-1,FR-Bein-Sport--1-HD
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/294.ts
 #EXTINF:-1,FR-argent-tv
 http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/295.ts
 #EXTINF:-1,Eurosport-1-HD-FR
@@ -1248,17 +653,17 @@ http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/307.ts
 http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/259.ts
 #EXTINF:-1,CINE--FRISSON-HD
 http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/287.ts
-#EXTINF:-1,CinÃ©-Fil
+#EXTINF:-1,Cin?©-Fil
 http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/262.ts
-#EXTINF:-1,CinÃ©-Etoile
+#EXTINF:-1,Cin?©-Etoile
 http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/263.ts
-#EXTINF:-1,CinÃ©-Classic
+#EXTINF:-1,Cin?©-Classic
 http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/264.ts
-#EXTINF:-1,CinÃ©--Premier
+#EXTINF:-1,Cin?©--Premier
 http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/265.ts
-#EXTINF:-1,CinÃ©--Famiz
+#EXTINF:-1,Cin?©--Famiz
 http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/267.ts
-#EXTINF:-1,CinÃ©--Emotion
+#EXTINF:-1,Cin?©--Emotion
 http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/268.ts
 #EXTINF:-1,Canal-9
 http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/247.ts
@@ -1270,32 +675,12 @@ http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/275.ts
 http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/276.ts
 #EXTINF:-1,CANAL--FAMILY-HD
 http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/277.ts
-#EXTINF:-1,Canal--DÃ©calÃ©
+#EXTINF:-1,Canal--D?©cal?©
 http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/269.ts
 #EXTINF:-1,CANAL--CINEMA
 http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/278.ts
 #EXTINF:-1,Arte
 http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/279.ts
-#EXTINF:-1,Arabic: OSN YAHALLA SHABAB
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/315.ts
-#EXTINF:-1,Arabic: OSN YAHALA DRAMA
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/316.ts
-#EXTINF:-1,Arabic: OSN YAHALA 2
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/317.ts
-#EXTINF:-1,Arabic: OSN YAHALA
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/318.ts
-#EXTINF:-1,Arabic: OSN Ya Hala 2
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/328.ts
-#EXTINF:-1,Arabic: OSN TCM
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/311.ts
-#EXTINF:-1,Arabic: OSN SAFWA
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/314.ts
-#EXTINF:-1,Arabic: OSN MOVIE DRAMA
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/322.ts
-#EXTINF:-1,Arabic: OSN MOVIE ACTION
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/323.ts
-#EXTINF:-1,Arabic: OSN DISNEY
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/327.ts
 #EXTINF:-1,ar:SAMA-DUBAI
 http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/32.ts
 #EXTINF:-1,ar:RT-ARABE
@@ -1342,33 +727,12 @@ http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/12.ts
 http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/28.ts
 #EXTINF:-1,ar:2M-MAROC
 http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/11.ts
-#EXTINF:-1,AR: beIN SPORTS 10 HD
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/66.ts
-#EXTINF:-1,AR: BEIN SPORT 9 HD
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/65.ts
-#EXTINF:-1,AR: BEIN SPORT 8 HD
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/64.ts
-#EXTINF:-1,AR: BEIN SPORT 7 HD
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/63.ts
-#EXTINF:-1,AR: BEIN SPORT 6 HD
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/62.ts
-#EXTINF:-1,AR: BEIN SPORT 5 HD
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/61.ts
-#EXTINF:-1,AR: BEIN SPORT 4 HD
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/60.ts
-#EXTINF:-1,AR: BEIN SPORT 3 HD
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/59.ts
-#EXTINF:-1,AR: BEIN SPORT 2 HD
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/58.ts
-#EXTINF:-1,AR: BEIN SPORT 1 HD
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/57.ts
 #EXTINF:-1,Animaux
 http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/271.ts
 #EXTINF:-1,Action
 http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/272.ts
 #EXTINF:-1,AB1
 http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/273.ts
-#EXTM3U
 #EXTINF:-1,ar:NileTaalimia
 http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/493.ts
 #EXTINF:-1,ar:NileSport
@@ -1537,8 +901,6 @@ http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/310.ts
 http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/253.ts
 #EXTINF:-1,Ma-chaine-sport
 http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/254.ts
-#EXTINF:-1,M6-MUSIC
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/300.ts
 #EXTINF:-1,IT: SKYIT Cinema 24
 http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/128.ts
 #EXTINF:-1,IT: Sky Uno HD
@@ -1587,13 +949,4 @@ http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/89.ts
 http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/90.ts
 #EXTINF:-1,IT: RSI La1 HD
 http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/91.ts
-#EXTINF:-1,IT: RealTime
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/92.ts
-#EXTINF:-1,IT: Rai 4
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/93.ts
-#EXTINF:-1,IT: Rai 3
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/94.ts
-#EXTINF:-1,IT: Rai 2
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/95.ts
-#EXTINF:-1,IT: Rai 1
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/96.ts
+
