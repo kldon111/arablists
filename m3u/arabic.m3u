@@ -52,6 +52,38 @@ http://188.93.234.112:8082/TV0052
 http://188.93.234.112:8082/TV0088
 #EXTINF:-1,safwa
 http://188.93.234.112:8082/TV0099
+#EXTINF:-1,CTV Coptic
+http://sc-e1.streamcyclone.com:1935/ctvch_live/ctvch/playlist.m3u8
+#EXTINF:-1,Nahar Drama
+http://50.7.180.18:1935/elnahar_tv/nahar_dramaprofile2.stream/playlist.m3u8
+#EXTINF:-1,Nahar Sport
+http://50.7.180.18:1935/elnahar_tv/nahar_sportprofile2.stream/playlist.m3u8
+#EXTINF:-1,Sigma TV
+http://81.21.47.75/hls/live.m3u8
+#EXTINF:-1,Sport1
+http://87.245.214.43/streaming/sport1/16/tvrec/playlist.m3u8
+#EXTINF:-1,Nahar TV
+http://50.7.180.18:1935/elnahar_tv/nahar_tvprofile2.stream/gmswf.m3u8?v=1096642953
+#EXTINF:-1,Egypt1
+http://216.66.42.86:7777/AlMasriyah.m3u8?user=arash&session=6bbf09c70eae5e0a381b7f55d08de6e5f84076fe8cc68dba20bff77415475024a299017ce29bf1aa&v=1096642953
+#EXTINF:-1,Egypt2
+http://216.66.42.86:7777/AlThanya.m3u8?user=arash&session=ab9dc667f7d516ca005d5d6cb427ac5aa8d10c127b9ca597dce0a58c18df0616a299017ce29bf1aa&v=1096642953
+#EXTINF:-1,Alarabiya
+http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8?v=1096642953
+#EXTINF:-1,Dubai
+http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/gmswf.m3u8?v=1096642953
+#EXTINF:-1,Nile Sport
+http://216.66.42.86:7777/NileSport.m3u8?user=arash&session=5241f58f4a2b50a09115d444ec69654f63b627f5e8d101af6c772142d6d6161ba299017ce29bf1aa&v=1096642953
+#EXTINF:-1,ElNahar Sport
+http://50.7.180.18:1935/elnahar_tv/nahar_sportprofile2.stream/gmswf.m3u8?v=1096642953
+#EXTINF:-1,OnTv
+http://50.7.180.18:1935/elONTV/ontvlive_profile2.stream/gmswf.m3u8?v=1096642953
+#EXTINF:-1,El Mehwar
+http://38.111.46.40:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8?v=1096642953
+#EXTINF:-1,Ntv sport
+http://46.61.226.21/hls/CH_NTVPLUSPORT/variant.m3u8?v=1096642953
+#EXTINF:-1,copa
+http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8?v=1096642953
 #EXTINF:0,MBC
 http://50.23.65.8/live/mbc/index.m3u8
 #EXTINF:0,DREAM1
