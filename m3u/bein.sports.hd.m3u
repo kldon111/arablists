@@ -24,6 +24,52 @@ BEIN SPORTS 8
 http://45.32.1.184:9500/serversdzip/1234567/1035.ch 
 BEIN SPORTS 9 
 http://45.32.1.184:9500/serversdzip/1234567/1036.ch 
+#EXTINF:0,beIN Sports 1 HD
+http://45.32.1.184:9500/serversdzip/1234567/1028.ch
+#EXTINF:0,beINSport 1 HD 
+http://45.32.1.184:9500/serversdzip/1234567/1158.ch
+#EXTINF:0,Bein sport 1 HD -
+http://45.32.1.184:9500/serversdzip/1234567/249.ch
+#EXTINF:0,beIN Sports 2 HD
+http://45.32.1.184:9500/serversdzip/1234567/1029.ch
+#EXTINF:0,beINSport 2 HD 
+http://45.32.1.184:9500/serversdzip/1234567/1159.ch
+#EXTINF:0,beIN Sports 3 HD
+http://45.32.1.184:9500/serversdzip/1234567/1030.ch
+#EXTINF:0,beINSport 3 HD 
+http://45.32.1.184:9500/serversdzip/1234567/1160.ch
+#EXTINF:0,beIN Sports 4 HD
+http://45.32.1.184:9500/serversdzip/1234567/1031.ch
+#EXTINF:0,beINSport 4 HD 
+http://45.32.1.184:9500/serversdzip/1234567/1161.ch
+#EXTINF:-1,BeinSport 5 HD -
+http://45.32.1.184:9500/serversdzip/1234567/253.ch
+#EXTINF:0,beIN Sports 5 HD
+http://45.32.1.184:9500/serversdzip/1234567/1032.ch
+#EXTINF:0,beINSport 5 HD 
+http://45.32.1.184:9500/serversdzip/1234567/1162.ch
+#EXTINF:-1,BEINSPORTLIVE
+http://45.32.1.184:9500/serversdzip/1234567/1361.ch
+#EXTINF:0,beIN Sports 6 HD
+http://45.32.1.184:9500/serversdzip/1234567/1033.ch
+#EXTINF:0,beINSport 6 HD 
+http://45.32.1.184:9500/serversdzip/1234567/1163.ch
+#EXTINF:0,beIN Sports 7 HD
+http://45.32.1.184:9500/serversdzip/1234567/1034.ch
+#EXTINF:0,beINSport 7 HD 
+http://45.32.1.184:9500/serversdzip/1234567/1164.ch
+#EXTINF:0,BeIN Sport 1 Medium
+http://streamindo.ddns.net/jhos/beib1_3/streamindo/playlist.m3u8
+#EXTINF:0,BeIN Sport 1 HD
+http://streamindo.ddns.net/jhos/beib1_5/streamindo/playlist.m3u8
+#EXTINF:0,BeIN Sport 2 Medium
+http://streamindo.ddns.net/jhos/beib2_3/streamindo/playlist.m3u8
+#EXTINF:0,BeIN Sport 2 HD
+http://streamindo.ddns.net/jhos/beib2_5/streamindo/playlist.m3u8
+#EXTINF:0,BeIN Sport Premier Medium
+http://streamindo.ddns.net/jhos/beib3_3/streamindo/playlist.m3u8
+#EXTINF:0,BeIN Sport Premier
+http://streamindo.ddns.net/jhos/beib3_5/streamindo/playlist.m3u8
 #EXTINF:0,BEIN SPORT 1 HD
 http://ift.tt/1JZo64n
 #EXTINF:0,BEIN SPORT 2 HD
