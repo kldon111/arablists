@@ -70,152 +70,40 @@ http://streamindo.ddns.net/jhos/beib2_5/streamindo/playlist.m3u8
 http://streamindo.ddns.net/jhos/beib3_3/streamindo/playlist.m3u8
 #EXTINF:0,BeIN Sport Premier
 http://streamindo.ddns.net/jhos/beib3_5/streamindo/playlist.m3u8
-#EXTINF:0,BEIN SPORT 1 HD
-http://ift.tt/1JZo64n
-#EXTINF:0,BEIN SPORT 2 HD
-http://ift.tt/1JUm2gO
-#EXTINF:0,BEIN SPORT 3 HD
-http://ift.tt/1JZo64p
-#EXTINF:0,BEIN SPORT 4 HD
-http://ift.tt/1JUm3kS
-#EXTINF:0,BEIN SPORT 5 HD
-http://ift.tt/1JZo8ZZ
-#EXTINF:0,BEIN SPORT 6 HD
-http://ift.tt/1JUm3kU
-#EXTINF:0,BEIN SPORT 7 HD
-http://ift.tt/1JZo901
-#EXTINF:0,BEIN SPORT 8 HD
-http://ift.tt/1JUm3Ba
-#EXTINF:0,BEIN SPORT 9 HD
-http://ift.tt/1JZo6kL
-#EXTINF:0,beIN Sports 2 HD
-http://ift.tt/1JUm34l
-#EXTINF:0,beIN Sports 3 HD
-http://ift.tt/1JZo5NR
-#EXTINF:0,beIN Sports 4 HD
-http://ift.tt/1JZo8JA
-#EXTINF:0,beIN Sports 5 HD
-http://ift.tt/1JUm3kG
-#EXTINF:0,beIN Sports 6 HD
-http://ift.tt/1JZo5NV
-#EXTINF:0,beIN Sports 7 HD
-http://ift.tt/1JUm2gG
-#EXTINF:0,beIN Sports 8 HD
-http://ift.tt/1JZo649
-#EXTINF:0,beIN Sports 9 HD
-http://ift.tt/1JUm2gJ
-#EXTINF:0,beIN SPORTS 10 HD
-http://ift.tt/1JUm5ck
-#EXTINF:-1, BeIN Sport Premier Medium
-http://ift.tt/1yz2adU
-#EXTINF:-1, BeIN Sport Premier HD
-http://ift.tt/1yz2adW
+#EXTINF:-1, BeIN Sport 1 Low
+http://streamindo.ddns.net/jhos/beib1_2/streamindo/playlist.m3u8
 #EXTINF:-1, BeIN Sport 1 Medium
-http://ift.tt/1xo7DP1
+http://streamindo.ddns.net/jhos/beib1_3/streamindo/playlist.m3u8
 #EXTINF:-1, BeIN Sport 1 HD
-http://ift.tt/1xo7BXe
+http://streamindo.ddns.net/jhos/beib1_5/streamindo/playlist.m3u8
+#EXTINF:-1, BeIN Sport 2 Low
+http://streamindo.ddns.net/jhos/beib2_2/streamindo/playlist.m3u8
 #EXTINF:-1, BeIN Sport 2 Medium
-http://ift.tt/1yz28Tn
+http://streamindo.ddns.net/jhos/beib2_3/streamindo/playlist.m3u8
 #EXTINF:-1, BeIN Sport 2 HD
-http://ift.tt/1xo7BXh
-#EXTINF:0, BeIN Sports 3 HD
-http://ift.tt/1JUmaNo
-#EXTINF:0,BeIN Sports 2 HD
-http://ift.tt/1JUm9cc
-#EXTINF:0,BeIN Sports 1 HD
-http://ift.tt/1JZofou
-#EXTINF:0,FR-Bein-Sport--2-HD
-http://ift.tt/1JZofEN
-#EXTINF:0,FR-Bein-Sport--1-HD
-http://ift.tt/1JUmb3G
-#EXTINF:-1,Bein Sports USA
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/95.ts
-#EXTINF:-1,Bein Sports 1 FR
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/31.ts
-#EXTINF:-1,Bein Sports 2 FR
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/36.ts
-#EXTINF:-1,Bein Sports 3 FR
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/32.ts
-#EXTINF:-1,Bein Max 4
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/93.ts
-#EXTINF:-1,Bein Max 5
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/94.ts
-#EXTINF:-1,Bein Sports 1 HD
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/16.ts
-#EXTINF:-1,Bein Sports 2 HD
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/17.ts
-#EXTINF:-1,Bein Sports 3 HD
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/18.ts
-#EXTINF:-1,Bein Sports 4 HD
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/19.ts
-#EXTINF:-1,Bein Sports 5 HD
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/20.ts
-#EXTINF:-1,Bein Sports 6 HD
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/21.ts
-#EXTINF:-1,Bein Sports 7 HD
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/22.ts
-#EXTINF:-1,Bein Sports 8 HD
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/23.ts
-#EXTINF:-1,Bein Sports 9 HD
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/24.ts
-#EXTINF:-1,Bein Sports 10 HD
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/25.ts
-#EXTINF:-1,Bein Sports 11 HD
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/247.ts
-#EXTINF:-1,Bein Sports 12 HD
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/248.ts
-#EXTINF:-1,Bein Sports 1 LQ Backup
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/114.ts
-#EXTINF:-1,Bein Sports 2 LQ Backup
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/115.ts
-#EXTINF:-1,Bein Sports 3 LQ Backup
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/116.ts
-#EXTINF:-1,Bein Sports 4 LQ Backup
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/117.ts
-#EXTINF:-1,Bein Sports 5 LQ Backup
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/118.ts
-#EXTINF:-1,Bein Sports 6 LQ Backup
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/119.ts
-#EXTINF:-1,Bein Sports 7 LQ Backup
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/120.ts
-#EXTINF:-1,Bein Sports 8 LQ Backup
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/121.ts
-#EXTINF:-1,Bein Sports 9 LQ Backup
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/122.ts
-#EXTINF:-1,Bein Sports 10 LQ Backup
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/123.ts
-#EXTINF:-1,Bein Sports 11 LQ Backup
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/124.ts
-#EXTINF:-1,Bein Sports 12 LQ Backup
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/125.ts
-#EXTINF:-1,FR: BeIN Sports 1 HD
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/69.ts
-#EXTINF:-1,FR: BeIN Sports 2 HD
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/68.ts
-#EXTINF:-1,FR: BeIN Sports 3 HD
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/67.ts
-#EXTINF:-1,AR: BEIN SPORT 4 HD
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/60.ts
-#EXTINF:-1,AR: BEIN SPORT 5 HD
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/61.ts
-#EXTINF:-1,AR: BEIN SPORT 6 HD
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/62.ts
-#EXTINF:-1,AR: BEIN SPORT 7 HD
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/63.ts
-#EXTINF:-1,AR: BEIN SPORT 8 HD
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/64.ts
-#EXTINF:-1,AR: BEIN SPORT 9 HD
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/65.ts
-#EXTINF:-1,AR: beIN SPORTS 10 HD
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/66.ts
-#EXTINF:-1,FR-Bein-Sport--1-HD
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/294.ts
-#EXTINF:-1,FR-Bein-Sport--2-HD
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/293.ts
-#EXTINF:-1,AR: BEIN SPORT 1 HD
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/57.ts
-#EXTINF:-1,AR: BEIN SPORT 2 HD
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/58.ts
-#EXTINF:-1,AR: BEIN SPORT 3 HD
-http://62.210.103.22:8000/live/skype:IPTV@PREMIUM/nqashalhob.com/59.ts
+http://streamindo.ddns.net/jhos/beib2_5/streamindo/playlist.m3u8
+#EXTINF:-1, BeIN Sport Premier Low
+http://streamindo.ddns.net/jhos/beib3_2/streamindo/playlist.m3u8
+#EXTINF:-1, BeIN Sport Premier Medium
+http://streamindo.ddns.net/jhos/beib3_3/streamindo/playlist.m3u8
+#EXTINF:-1, BeIN Sport Premier HD
+http://streamindo.ddns.net/jhos/beib3_5/streamindo/playlist.m3u8
+#EXTINF:0,BeIN Sport 1
+http://streamindo.ddns.net/jhos/beib1_2/streamindo/playlist.m3u8
+#EXTINF:0,BeIN Sport 1
+http://streamindo.ddns.net/jhos/beib1_3/streamindo/playlist.m3u8
+#EXTINF:0,BeIN Sport 1
+http://streamindo.ddns.net/jhos/beib1_5/streamindo/playlist.m3u8
+#EXTINF:0,BeIN Sport 2
+http://streamindo.ddns.net/jhos/beib2_2/streamindo/playlist.m3u8
+#EXTINF:0,BeIN Sport 2 Medium
+http://streamindo.ddns.net/jhos/beib2_3/streamindo/playlist.m3u8
+#EXTINF:0,BeIN Sport 2
+http://streamindo.ddns.net/jhos/beib2_5/streamindo/playlist.m3u8
+#EXTINF:0,BeIN Sport Premier
+http://streamindo.ddns.net/jhos/beib3_2/streamindo/playlist.m3u8
+#EXTINF:0,BeIN Sport Premier
+http://streamindo.ddns.net/jhos/beib3_3/streamindo/playlist.m3u8
+#EXTINF:0,BeIN Sport Premier
+http://streamindo.ddns.net/jhos/beib3_5/streamindo/playlist.m3u8
 
