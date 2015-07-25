@@ -1,9 +1,31 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR green] --Updated 15/07/15 @ 10:00pm made by:mfaraj,kldon--[/COLOR]   
+#EXTINF:-1, [COLOR green] --Updated 25/07/15 @ 10:00am made by:mfaraj,kldon--[/COLOR]   
 https://www.youtube.com/watch?v=P6CobLkKuEU
 #EXTINF:-1, [COLOR green] --Updated from www.dreamoem.com$www.tunisia-sat.com--[/COLOR]  
 https://www.youtube.com/channel/UCE8HvYEF1LB61_nG2g_6xKQ
+#EXTINF:0,beIN SPORTS 1HD
+http://star7arab.zapto.org:8082/TV4001
+#EXTINF:0,beIN SPORTS 2HD
+http://star7arab.zapto.org:8082/TV4002
+#EXTINF:0,beIN SPORTS 3HD
+http://star7arab.zapto.org:8082/TV4003
+#EXTINF:0,beIN SPORTS 4HD
+http://star7arab.zapto.org:8082/TV4004
+#EXTINF:0,beIN SPORTS 5HD
+http://star7arab.zapto.org:8082/TV4005
+#EXTINF:0,beIN SPORTS 6HD
+http://star7arab.zapto.org:8082/TV4006
+#EXTINF:0,beIN SPORTS 7HD
+http://star7arab.zapto.org:8082/TV4007
+#EXTINF:0,beIN SPORTS 8HD
+http://star7arab.zapto.org:8082/TV4008
+#EXTINF:0,beIN SPORTS 9HD
+http://star7arab.zapto.org:8082/TV4009
+#EXTINF:0,beIN SPORTS 10HD
+http://star7arab.zapto.org:8082/TV4010
+#EXTINF:0,beIN SPORTS 11HD
+http://star7arab.zapto.org:8082/TV4011
 BEIN SPORTS 1 
 http://45.32.1.184:9500/serversdzip/1234567/1028.ch 
 BEIN SPORTS 2 
