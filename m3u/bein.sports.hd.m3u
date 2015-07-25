@@ -26,161 +26,47 @@ http://star7arab.zapto.org:8082/TV4009
 http://star7arab.zapto.org:8082/TV4010
 #EXTINF:0,beIN SPORTS 11HD
 http://star7arab.zapto.org:8082/TV4011
-BEIN SPORTS 1 
-http://45.32.1.184:9500/serversdzip/1234567/1028.ch 
-BEIN SPORTS 2 
-http://45.32.1.184:9500/serversdzip/1234567/1029.ch 
-BEIN SPORTS 3 
-http://45.32.1.184:9500/serversdzip/1234567/1030.ch 
-bein 3 
-http://45.32.1.184:9500/serversdzip/1234567/1160.ch 
-BEIN SPORTS 4 
-http://45.32.1.184:9500/serversdzip/1234567/1031.ch 
-BEIN SPORTS 5 
-http://45.32.1.184:9500/serversdzip/1234567/1032.ch 
-BEIN SPORTS 6 
-http://45.32.1.184:9500/serversdzip/1234567/1033.ch 
-BEIN SPORTS 7 
-http://45.32.1.184:9500/serversdzip/1234567/1034.ch 
-BEIN SPORTS 8 
-http://45.32.1.184:9500/serversdzip/1234567/1035.ch 
-BEIN SPORTS 9 
-http://45.32.1.184:9500/serversdzip/1234567/1036.ch 
-#EXTINF:0,beIN Sports 1 HD
-http://45.32.1.184:9500/serversdzip/1234567/1028.ch
-#EXTINF:0,beINSport 1 HD 
-http://45.32.1.184:9500/serversdzip/1234567/1158.ch
-#EXTINF:0,Bein sport 1 HD -
-http://45.32.1.184:9500/serversdzip/1234567/249.ch
-#EXTINF:0,beIN Sports 2 HD
-http://45.32.1.184:9500/serversdzip/1234567/1029.ch
-#EXTINF:0,beINSport 2 HD 
-http://45.32.1.184:9500/serversdzip/1234567/1159.ch
-#EXTINF:0,beIN Sports 3 HD
-http://45.32.1.184:9500/serversdzip/1234567/1030.ch
-#EXTINF:0,beINSport 3 HD 
-http://45.32.1.184:9500/serversdzip/1234567/1160.ch
-#EXTINF:0,beIN Sports 4 HD
-http://45.32.1.184:9500/serversdzip/1234567/1031.ch
-#EXTINF:0,beINSport 4 HD 
-http://45.32.1.184:9500/serversdzip/1234567/1161.ch
-#EXTINF:-1,BeinSport 5 HD -
-http://45.32.1.184:9500/serversdzip/1234567/253.ch
-#EXTINF:0,beIN Sports 5 HD
-http://45.32.1.184:9500/serversdzip/1234567/1032.ch
-#EXTINF:0,beINSport 5 HD 
-http://45.32.1.184:9500/serversdzip/1234567/1162.ch
-#EXTINF:-1,BEINSPORTLIVE
-http://45.32.1.184:9500/serversdzip/1234567/1361.ch
-#EXTINF:0,beIN Sports 6 HD
-http://45.32.1.184:9500/serversdzip/1234567/1033.ch
-#EXTINF:0,beINSport 6 HD 
-http://45.32.1.184:9500/serversdzip/1234567/1163.ch
-#EXTINF:0,beIN Sports 7 HD
-http://45.32.1.184:9500/serversdzip/1234567/1034.ch
-#EXTINF:0,beINSport 7 HD 
-http://45.32.1.184:9500/serversdzip/1234567/1164.ch
-#EXTINF:0,BeIN Sport 1 Medium
-http://streamindo.ddns.net/jhos/beib1_3/streamindo/playlist.m3u8
-#EXTINF:0,BeIN Sport 1 HD
-http://streamindo.ddns.net/jhos/beib1_5/streamindo/playlist.m3u8
-#EXTINF:0,BeIN Sport 2 Medium
-http://streamindo.ddns.net/jhos/beib2_3/streamindo/playlist.m3u8
-#EXTINF:0,BeIN Sport 2 HD
-http://streamindo.ddns.net/jhos/beib2_5/streamindo/playlist.m3u8
-#EXTINF:0,BeIN Sport Premier Medium
-http://streamindo.ddns.net/jhos/beib3_3/streamindo/playlist.m3u8
-#EXTINF:0,BeIN Sport Premier
-http://streamindo.ddns.net/jhos/beib3_5/streamindo/playlist.m3u8
-#EXTINF:-1, BeIN Sport 1 Low
-http://streamindo.ddns.net/jhos/beib1_2/streamindo/playlist.m3u8
-#EXTINF:-1, BeIN Sport 1 Medium
-http://streamindo.ddns.net/jhos/beib1_3/streamindo/playlist.m3u8
-#EXTINF:-1, BeIN Sport 1 HD
-http://streamindo.ddns.net/jhos/beib1_5/streamindo/playlist.m3u8
-#EXTINF:-1, BeIN Sport 2 Low
-http://streamindo.ddns.net/jhos/beib2_2/streamindo/playlist.m3u8
-#EXTINF:-1, BeIN Sport 2 Medium
-http://streamindo.ddns.net/jhos/beib2_3/streamindo/playlist.m3u8
-#EXTINF:-1, BeIN Sport 2 HD
-http://streamindo.ddns.net/jhos/beib2_5/streamindo/playlist.m3u8
-#EXTINF:-1, BeIN Sport Premier Low
-http://streamindo.ddns.net/jhos/beib3_2/streamindo/playlist.m3u8
-#EXTINF:-1, BeIN Sport Premier Medium
-http://streamindo.ddns.net/jhos/beib3_3/streamindo/playlist.m3u8
-#EXTINF:-1, BeIN Sport Premier HD
-http://streamindo.ddns.net/jhos/beib3_5/streamindo/playlist.m3u8
-#EXTINF:0,BeIN Sport 1
-http://streamindo.ddns.net/jhos/beib1_2/streamindo/playlist.m3u8
-#EXTINF:0,BeIN Sport 1
-http://streamindo.ddns.net/jhos/beib1_3/streamindo/playlist.m3u8
-#EXTINF:0,BeIN Sport 1
-http://streamindo.ddns.net/jhos/beib1_5/streamindo/playlist.m3u8
-#EXTINF:0,BeIN Sport 2
-http://streamindo.ddns.net/jhos/beib2_2/streamindo/playlist.m3u8
-#EXTINF:0,BeIN Sport 2 Medium
-http://streamindo.ddns.net/jhos/beib2_3/streamindo/playlist.m3u8
-#EXTINF:0,BeIN Sport 2
-http://streamindo.ddns.net/jhos/beib2_5/streamindo/playlist.m3u8
-#EXTINF:0,BeIN Sport Premier
-http://streamindo.ddns.net/jhos/beib3_2/streamindo/playlist.m3u8
-#EXTINF:0,BeIN Sport Premier
-http://streamindo.ddns.net/jhos/beib3_3/streamindo/playlist.m3u8
-#EXTINF:0,BeIN Sport Premier
-http://streamindo.ddns.net/jhos/beib3_5/streamindo/playlist.m3u8
-#EXTINF:0,beIN Sports 1 HD
-http://45.32.1.184:9500/serversdzip/1234567/1028.ch
-#EXTINF:0,beINSport 1 HD
-http://45.32.1.184:9500/serversdzip/1234567/1158.ch
-#EXTINF:-1,Bein sport 1 HD -
-http://45.32.1.184:9500/serversdzip/1234567/249.ch
-#EXTINF:0,beIN Sports 2 HD
-http://45.32.1.184:9500/serversdzip/1234567/1029.ch
-#EXTINF:0,beINSport 2 HD
-http://45.32.1.184:9500/serversdzip/1234567/1159.ch
-#EXTINF:0,beIN Sports 3 HD
-http://45.32.1.184:9500/serversdzip/1234567/1030.ch
-#EXTINF:0,beINSport 3 HD
-http://45.32.1.184:9500/serversdzip/1234567/1160.ch
-#EXTINF:0,beIN Sports 4 HD
-http://45.32.1.184:9500/serversdzip/1234567/1031.ch
-#EXTINF:0,beINSport 4 HD
-http://45.32.1.184:9500/serversdzip/1234567/1161.ch
-#EXTINF:-1,BeinSport 5 HD -
-http://45.32.1.184:9500/serversdzip/1234567/253.ch
-#EXTINF:0,beIN Sports 5 HD
-http://45.32.1.184:9500/serversdzip/1234567/1032.ch
-#EXTINF:0,beINSport 5 HD
-http://45.32.1.184:9500/serversdzip/1234567/1162.ch
-#EXTINF:-1,BEINSPORTLIVE
-http://45.32.1.184:9500/serversdzip/1234567/1361.ch
-#EXTINF:0,beIN Sports 6 HD
-http://45.32.1.184:9500/serversdzip/1234567/1033.ch
-#EXTINF:0,beINSport 6 HD
-http://45.32.1.184:9500/serversdzip/1234567/1163.ch
-#EXTINF:0,beIN Sports 7 HD
-http://45.32.1.184:9500/serversdzip/1234567/1034.ch
-#EXTINF:0,beINSport 7 HD
-http://45.32.1.184:9500/serversdzip/1234567/1164.ch
-#EXTINF:0,beIN Sports 8 HD
-http://45.32.1.184:9500/serversdzip/1234567/1035.ch
-#EXTINF:0,beINSport 8 HD
-http://45.32.1.184:9500/serversdzip/1234567/1165.ch
-#EXTINF:0,beIN Sports 9 HD
-http://45.32.1.184:9500/serversdzip/1234567/1036.ch
-#EXTINF:0,beINSport 9 HD
-http://45.32.1.184:9500/serversdzip/1234567/1166.ch
-#EXTINF:0,beIN Sports 10 HD
-http://45.32.1.184:9500/serversdzip/1234567/1037.ch
-#EXTINF:0,beINSport 10 HD
-http://45.32.1.184:9500/serversdzip/1234567/1167.ch
-#EXTINF:0,beINSport 11 HD
-http://45.32.1.184:9500/serversdzip/1234567/1038.ch
-#EXTINF:0,beINSport 12 HD
-http://45.32.1.184:9500/serversdzip/1234567/1039.ch
-#EXTINF:0,beINSport 13 HD
-http://45.32.1.184:9500/serversdzip/1234567/1168.ch
-#EXTINF:0,beINSport 14 HD
-http://45.32.1.184:9500/serversdzip/1234567/1169.ch
-#EXTINF:0,beINSport 15 HD
-http://45.32.1.184:9500/serversdzip/1234567/1170.ch
+#EXTINF:0,BEIN SPORTS NEWS AR
+http://tvi.ddns.me:8000/live/fes/cccamgratuit/454.ts
+#EXTINF:0,BEIN SPORTS 1 HD
+http://tvi.ddns.me:8000/live/fes/cccamgratuit/186.ts
+#EXTINF:0,BEIN SPORTS 2 HD
+http://tvi.ddns.me:8000/live/fes/cccamgratuit/187.ts
+#EXTINF:0,BEIN SPORTS 3 HD
+http://tvi.ddns.me:8000/live/fes/cccamgratuit/188.ts
+#EXTINF:0,BEIN SPORTS 4 HD
+http://tvi.ddns.me:8000/live/fes/cccamgratuit/189.ts
+#EXTINF:0,BEIN SPORTS 5 HD
+http://tvi.ddns.me:8000/live/fes/cccamgratuit/190.ts
+#EXTINF:0,BEIN SPORTS 6 HD
+http://tvi.ddns.me:8000/live/fes/cccamgratuit/191.ts
+#EXTINF:0,BEIN SPORTS 7 HD
+http://tvi.ddns.me:8000/live/fes/cccamgratuit/192.ts
+#EXTINF:0,BEIN SPORTS 8 HD
+http://tvi.ddns.me:8000/live/fes/cccamgratuit/193.ts
+#EXTINF:0,BEIN SPORTS 9 HD
+http://tvi.ddns.me:8000/live/fes/cccamgratuit/194.ts
+#EXTINF:0,BEIN SPORTS 10 HD
+http://tvi.ddns.me:8000/live/fes/cccamgratuit/195.ts
+#EXTINF:0,BEIN SPORTS 11 HD
+http://tvi.ddns.me:8000/live/fes/cccamgratuit/196.ts
+#EXTINF:0,BEIN SPORTS 12 HD
+http://tvi.ddns.me:8000/live/fes/cccamgratuit/197.ts
+#EXTINF:0,BEIN SPORTS 13 HD
+http://tvi.ddns.me:8000/live/fes/cccamgratuit/451.ts
+#EXTINF:0,BEIN SPORTS 14 HD
+http://tvi.ddns.me:8000/live/fes/cccamgratuit/452.ts
+#EXTINF:0,BEIN SPORTS 15 HD
+http://tvi.ddns.me:8000/live/fes/cccamgratuit/453.ts
+#EXTINF:0,FR BEIN SPORT MAX 8
+http://tvi.ddns.me:8000/live/fes/cccamgratuit/1232.ts
+#EXTINF:0,BEIN SPORT HD
+http://tvi.ddns.me:8000/live/fes/cccamgratuit/1230.ts
+#EXTINF:0,bein sport 2
+http://beinlive.k30.us/iptv/beinsport2.m3u8
+#EXTINF:0,bein sport 3
+http://beinlive.k30.us/iptv/beinsport3.m3u8
+#EXTINF:0,bein sport 4
+http://beinlive.k30.us/iptv/beinsport4.m3u8
+#EXTINF:0,bein sport 5
+http://beinlive.k30.us/iptv/beinsport5.m3u8
