@@ -1,9 +1,51 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR green] --Updated 27/07/15 @ 10:00am made by:mfaraj,kldon--[/COLOR]   
+#EXTINF:-1, [COLOR green] --Updated 1/08/15 @ 10:00am made by:mfaraj,kldon--[/COLOR]   
 https://www.youtube.com/watch?v=P6CobLkKuEU
 #EXTINF:-1, [COLOR green] --Updated from www.dreamoem.com$www.tunisia-sat.com--[/COLOR]  
 https://www.youtube.com/channel/UCE8HvYEF1LB61_nG2g_6xKQ
+#EXTINF:-1,BE-BeinSport-10HD
+http://iptv15.zapto.org:8000/live/test/2015/464.ts
+#EXTINF:-1,beIN Sport HD 10
+http://iptv15.zapto.org:8000/live/test/2015/265.ts
+#EXTINF:-1,BE-BeinSport-9HD
+http://iptv15.zapto.org:8000/live/test/2015/463.ts
+#EXTINF:-1,beIN Sport HD 9
+http://iptv15.zapto.org:8000/live/test/2015/270.ts
+#EXTINF:-1,BE-BeinSport-8HD
+http://iptv15.zapto.org:8000/live/test/2015/462.ts
+#EXTINF:-1,Bein:Sports:HD8
+http://iptv15.zapto.org:8000/live/test/2015/61.ts
+#EXTINF:-1,beIN Sport HD 7
+http://iptv15.zapto.org:8000/live/test/2015/268.ts
+#EXTINF:-1,beIN Sport HD 6
+http://iptv15.zapto.org:8000/live/test/2015/267.ts
+#EXTINF:-1,Bein:Sports:HD6
+http://iptv15.zapto.org:8000/live/test/2015/59.ts
+#EXTINF:-1,beIN Sport HD 5
+http://iptv15.zapto.org:8000/live/test/2015/266.ts
+#EXTINF:-1,BE-BEINSPORT-5HD
+http://iptv15.zapto.org:8000/live/test/2015/460.ts
+#EXTINF:-1,Bein:Sports:HD5
+http://iptv15.zapto.org:8000/live/test/2015/58.ts
+#EXTINF:-1,BE-BEINSPORT-4HD
+http://iptv15.zapto.org:8000/live/test/2015/459.ts
+#EXTINF:-1,Bein:Sports:HD4
+http://iptv15.zapto.org:8000/live/test/2015/57.ts
+#EXTINF:-1,BE-BEINSPORT-3HD
+http://iptv15.zapto.org:8000/live/test/2015/458.ts
+#EXTINF:-1,beIN Sport HD 3
+http://iptv15.zapto.org:8000/live/test/2015/264.ts
+#EXTINF:-1,Bein:Sports:HD3
+http://iptv15.zapto.org:8000/live/test/2015/56.ts
+#EXTINF:-1,BEIN SPORTS 2 HD (SA
+http://iptv15.zapto.org:8000/live/test/2015/358.ts
+#EXTINF:-1,beIN Sport HD 2
+http://iptv15.zapto.org:8000/live/test/2015/263.ts
+#EXTINF:-1,BE-BEINSPORT-1HD
+http://iptv15.zapto.org:8000/live/test/2015/456.ts
+#EXTINF:-1,Bein:Sports:HD1
+http://iptv15.zapto.org:8000/live/test/2015/54.ts
 #EXTINF:-1,beIN 1
 http://185.56.30.127:8082/TV4001
 #EXTINF:-1,beIN 2
